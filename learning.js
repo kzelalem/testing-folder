@@ -62,3 +62,4 @@ console.log(kidusConcLength);
 //finding what letter or whatever is in a specific place in string u index it
 var kCFirst = kidusConc[0]
 console.log(kCFirst);
+console.log("Second Commit");
